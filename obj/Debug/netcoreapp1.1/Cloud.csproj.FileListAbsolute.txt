@@ -1,0 +1,8 @@
+/home/yung/Documents/Projects/Cloud/bin/Debug/netcoreapp1.1/Cloud.deps.json
+/home/yung/Documents/Projects/Cloud/bin/Debug/netcoreapp1.1/Cloud.runtimeconfig.json
+/home/yung/Documents/Projects/Cloud/bin/Debug/netcoreapp1.1/Cloud.runtimeconfig.dev.json
+/home/yung/Documents/Projects/Cloud/bin/Debug/netcoreapp1.1/Cloud.dll
+/home/yung/Documents/Projects/Cloud/bin/Debug/netcoreapp1.1/Cloud.pdb
+/home/yung/Documents/Projects/Cloud/obj/Debug/netcoreapp1.1/Cloud.AssemblyInfo.cs
+/home/yung/Documents/Projects/Cloud/obj/Debug/netcoreapp1.1/Cloud.dll
+/home/yung/Documents/Projects/Cloud/obj/Debug/netcoreapp1.1/Cloud.pdb
